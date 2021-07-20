@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, This is me LS Madan</h1>
 <h3 align="center">I present myself as a dedicated, motivated, and trusted individual, having passionate in web development and love to design better websites.</h3>
 
-- 🔭 I’m currently working on **Full Stack Web Developing**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate on **UX/UI Design**
 
