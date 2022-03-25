@@ -27,16 +27,16 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=madanlal1)](https://github.com/madanlal1/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsmadan&show_icons=true&locale=en&layout=compact" alt="lsmadan" /></p>
-
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lsmadan&show_icons=true&locale=en" alt="lsmadan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madanlal1&show_icons=true&locale=en&layout=compact" alt="lsmadan" /></p>
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lsmadan&" alt="lsmadan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madanlal1&show_icons=true&locale=en" alt="lsmadan" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lsmadan&label=Profile%20views&color=0e75b6&style=flat" alt="lsmadan" /> </p>
+<br />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madanlal1&" alt="lsmadan" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madanlal1&label=Profile%20views&color=0e75b6&style=flat" alt="lsmadan" /> </p>
