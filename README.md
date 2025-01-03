@@ -1,11 +1,11 @@
 <h1 align="center">Greetings 👋, This is me Madan Lal</h1>
 <h3 align="center">I present myself as a dedicated, motivated, and trusted individual, having passionate in web development and love to design innovative and interactive websites.</h3>
 
-- 🔭 I’m currently working on **Frontend Web Development**
+- 🔭 I’m currently working on **Frontend Web Development.**
 
-- 👯 I’m looking to collaborate on **Frontend Design & Development**
+- 👯 I’m looking to collaborate on **Frontend Design & Development.**
 
-- 💬 Ask me about **HTML, CSS, JS, React, Git**
+- 💬 Ask me about **HTML, CSS, JS & React JS.**
 
 - 📫 How to reach me **madanlal.pk99@gmail.com**
 
